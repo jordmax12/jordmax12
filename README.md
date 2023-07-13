@@ -20,11 +20,11 @@ I'm a Lead Software Engineer with extensive experience in building high-quality 
 
 ## 🎯 Latest Projects
 
-* Feastables: Receipt Validation: This system conducts a line-by-line audit of Feastables product transactions, underpinned by millisecond-latency de-duplication. This tool helps augment the customer journey by enabling purchase authentication as a gateway to participate in various initiatives by validating their receipt, encompassing exotic car giveaways and exclusive access to hidden Mr. Beast video access.
+* **Feastables: Receipt Validation**: This system conducts a line-by-line audit of Feastables product transactions, underpinned by millisecond-latency de-duplication. This tool helps augment the customer journey by enabling purchase authentication as a gateway to participate in various initiatives by validating their receipt, encompassing exotic car giveaways and exclusive access to hidden Mr. Beast video access.
 
-* Feastables: SMS bot - SMS chatbot that uses Twilio + Ada AI to create a chat experience for our customers where they can text us, and we respond with intent based responses. Completely built using AWS Serverless technologies.
+* **Feastables: SMS bot** - SMS chatbot that uses Twilio + Ada AI to create a chat experience for our customers where they can text us, and we respond with intent based responses. Completely built using AWS Serverless technologies.
 
-* Feastables: Rock Paper Scissors - The "World's Biggest Game of Rock Paper Scissors," from concept to launch in just three weeks, featuring a grand tournament finale. With over 600K users and 1.5M games, the winner bagged $50,000 and a guest spot in a Mr. Beast video.
+* **Feastables: Rock Paper Scissors** - The "World's Biggest Game of Rock Paper Scissors," from concept to launch in just three weeks, featuring a grand tournament finale. With over 600K users and 1.5M games, the winner bagged $50,000 and a guest spot in a Mr. Beast video.
 
 ---
 
