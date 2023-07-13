@@ -18,15 +18,7 @@ I am currently working @ [Feastables](https://feastables.com) as a Lead Software
 
 ---
 
-## 💬 Ask me about ...
-
-Feel free to reach out if you're looking for help or consultation related to Node.js, AWS, Serverless Framework, microservices, event-driven architecture, and API's. I'm always willing to lend a hand or engage in a meaningful discussion.
-
----
-
 ## 📫 How to reach me:
-
-You can get in touch with me through the following channels:
 
 * LinkedIn: [JordanMaxJS](www.linkedin.com/in/jordanmaxjs)
 
