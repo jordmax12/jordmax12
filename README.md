@@ -1,7 +1,5 @@
 # Jordan Max
 
-![Profile Picture](https://avatars.githubusercontent.com/u/6082289?v=4)
-
 ### Hi there 👋
 
 
