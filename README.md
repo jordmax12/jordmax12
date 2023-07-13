@@ -20,7 +20,7 @@ I am currently working @ [Feastables](https://feastables.com) as a Lead Software
 
 ## 📫 How to reach me:
 
-* LinkedIn: [JordanMaxJS](www.linkedin.com/in/jordanmaxjs)
+* LinkedIn: [JordanMaxJS](https://www.linkedin.com/in/jordanmaxjs)
 
 ---
 
