@@ -4,7 +4,10 @@
 
 ### Hi there 👋
 
-I'm a Lead Software Engineer with extensive experience in building high-quality software, leveraging modern cloud architecture, and promoting sustainable software engineering methodologies. Specializing in designing and implementing Microservices, Event-Driven Architecture, and APIs using Node.js, AWS, and Serverless Framework.
+
+I am currently working @ [Feastables](https://feastables.com) as a Lead Software engineer. I build high-quality software while leveraging AWS serverless technologies and promoting sustainable software engineering methodologies. Specializing in designing and implementing Microservices, Event-Driven Architecture, and APIs using Node.js, AWS, and Serverless Framework.
+
+I'm a Lead Software Engineer with extensive experience in 
 
 ---
 
@@ -15,11 +18,7 @@ I'm a Lead Software Engineer with extensive experience in building high-quality 
 ![](https://img.shields.io/badge/Tools-Serverless-blue?style=for-the-badge&logo=serverless)
 ![](https://img.shields.io/badge/Architecture-Microservices-lightgrey?style=for-the-badge)
 ![](https://img.shields.io/badge/Architecture-Event_Driven-lightgrey?style=for-the-badge)
-
-
-## 🔭 I'm currently working on ...
-
-I am currently working @ [Feastables](https://feastables.com) as a Lead Software engineer. I build robust software using AWS, NodeJS and Serverless Framework that are mainly used in promotions and campaigns we launch to generate revenue. 
+![](https://img.shields.io/badge/Programming-Functional-blueviolet?style=for-the-badge)
 
 ---
 
