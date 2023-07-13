@@ -7,8 +7,6 @@
 
 I am currently working @ [Feastables](https://feastables.com) as a Lead Software engineer. I build high-quality software while leveraging AWS serverless technologies and promoting sustainable software engineering methodologies. Specializing in designing and implementing Microservices, Event-Driven Architecture, and APIs using Node.js, AWS, and Serverless Framework.
 
-I'm a Lead Software Engineer with extensive experience in 
-
 ---
 
 ## 🛠️ Technologies & Tools
