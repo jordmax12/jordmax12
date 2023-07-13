@@ -19,7 +19,7 @@ I'm a Lead Software Engineer with extensive experience in building high-quality 
 
 ## 🔭 I'm currently working on ...
 
-I am currently working @ ![Feastables](https://feastables.com) as a Lead Software engineer. I build robust software using AWS, NodeJS and Serverless Framework that are mainly used in promotions and campaigns we launch to generate revenue. 
+I am currently working @ [Feastables](https://feastables.com) as a Lead Software engineer. I build robust software using AWS, NodeJS and Serverless Framework that are mainly used in promotions and campaigns we launch to generate revenue. 
 
 ---
 
