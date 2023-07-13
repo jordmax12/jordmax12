@@ -20,9 +20,11 @@ I'm a Lead Software Engineer with extensive experience in building high-quality 
 
 ## 🎯 Latest Projects
 
-* __Project A__ - A high-availability, scalable microservice-based system designed to handle an extensive load, built using AWS Lambda, DynamoDB, and the Serverless framework.
+* Feastables: Receipt Validation: This system conducts a line-by-line audit of Feastables product transactions, underpinned by millisecond-latency de-duplication. This tool helps augment the customer journey by enabling purchase authentication as a gateway to participate in various initiatives by validating their receipt, encompassing exotic car giveaways and exclusive access to hidden Mr. Beast video access.
 
-* __Project B__ - An event-driven application that seamlessly integrates with multiple third-party services and ensures high data consistency across various microservices.
+* Feastables: SMS bot - SMS chatbot that uses Twilio + Ada AI to create a chat experience for our customers where they can text us, and we respond with intent based responses. Completely built using AWS Serverless technologies.
+
+* Feastables: Rock Paper Scissors - The "World's Biggest Game of Rock Paper Scissors," from concept to launch in just three weeks, featuring a grand tournament finale. With over 600K users and 1.5M games, the winner bagged $50,000 and a guest spot in a Mr. Beast video.
 
 ---
 
@@ -42,20 +44,7 @@ Feel free to reach out if you're looking for help or consultation related to Nod
 
 You can get in touch with me through the following channels:
 
-* LinkedIn: [Your LinkedIn handle](Replace with your LinkedIn Profile URL)
-* Email: [Your Email](mailto:your_email@example.com)
+* LinkedIn: [JordanMaxJS](www.linkedin.com/in/jordanmaxjs)
 
 ---
 
-## 📊 Github Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jordmax12&count_private=true&show_icons=true&theme=radical)](https://github.com/jordmax12/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordmax12&layout=compact&theme=radical)](https://github.com/jordmax12/github-readme-stats)
-
----
-
-
-### Hi there 👋
-
-I'm a Lead Software Engineer with extensive experience in building high-quality software, leveraging modern cloud architecture, and promoting sustainable software engineering methodologies. Specializing in designing and implementing Microservices, Event-Driven Architecture, and APIs using Node
