@@ -17,3 +17,5 @@ I am currently working @ [Feastables](https://feastables.com) as a Lead Software
 ![](https://img.shields.io/badge/Programming-Functional-blueviolet?style=for-the-badge)
 
 ---
+
+You can find my portfolio [here](https://jordanmax.io)
