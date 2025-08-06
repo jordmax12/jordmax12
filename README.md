@@ -1,27 +1,44 @@
-# Jordan Max
+# Hey, I'm Jordan Max! 👨‍💻
 
-### Hi there 👋
+Welcome to my GitHub! I'm a **Lead Software Engineer** at [Feastables](https://feastables.com), where I craft high-performance, scalable software using **AWS serverless technologies**. I’m passionate about building robust systems from the ground up, designing **microservices**, **event-driven architectures**, and **APIs** that solve real-world problems. With a knack for mentoring teams and driving projects from 0 to 1, I thrive on creating sustainable, cutting-edge solutions.
 
-
-I am currently working @ [Feastables](https://feastables.com) as a Lead Software engineer. I build high-quality software while leveraging AWS serverless technologies and promoting sustainable software engineering methodologies. Specializing in designing and implementing Microservices, Event-Driven Architecture, and APIs using Node.js, AWS, and Serverless Framework. Seasoned engineer with experience taking products from 0 to 1 while mentoring and leading others to success.
-
-Mostly used technologies: NodeJS, AWS Lambda, DynamoDB, S3, SQS/SNS, Kinesis, AppSync, Cloudformation, Cloudfront
-
-Technologies I'm learning: Golang, Python, AI
-
-Technologies I'd love to learn in a production setting: Kubernetes
+When I'm not churning code, I'm exploring new tech stacks (currently diving into **Golang** for side projects) or experimenting with **Python** for microservices when it’s the right tool for the job. The beauty of microservices? Pick the best tech for each problem and make it all play nice together! 🚀
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack & Tools
 
-![](https://img.shields.io/badge/Code-Node.js-green?style=for-the-badge&logo=node.js)
-![](https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazon-aws)
-![](https://img.shields.io/badge/Tools-Serverless-blue?style=for-the-badge&logo=serverless)
-![](https://img.shields.io/badge/Architecture-Microservices-lightgrey?style=for-the-badge)
-![](https://img.shields.io/badge/Architecture-Event_Driven-lightgrey?style=for-the-badge)
-![](https://img.shields.io/badge/Programming-Functional-blueviolet?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+![Microservices](https://img.shields.io/badge/Architecture-Microservices-6B7280?style=for-the-badge)
+![Event-Driven](https://img.shields.io/badge/Architecture-Event--Driven-6B7280?style=for-the-badge)
+![Functional](https://img.shields.io/badge/Programming-Functional-7C3AED?style=for-the-badge)
+
+**Core Technologies**: Node.js, AWS (Lambda, DynamoDB, S3, SQS/SNS, Kinesis, AppSync, CloudFormation, CloudFront), Serverless Framework  
+**Exploring**: Golang, Python  
+**Methodologies**: Functional programming, CI/CD
 
 ---
 
-You can find my portfolio [here](https://jordanmax.io)
+## 🌟 What I'm Up To
+
+- 🏗️ **Building** scalable, serverless systems at Feastables to power delightful user experiences.  
+- 🔍 **Learning** Golang to tackle performance-critical side projects.  
+- 🤝 **Mentoring** developers to level up their skills in cloud and microservices.  
+- 🎨 **Experimenting** with Python for specialized microservices when the use case demands it.  
+
+---
+
+## 📊 My GitHub Stats
+
+![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+
+- 🌐 [Portfolio](https://jordanmax.io)  
+- 💼 [LinkedIn](https://linkedin.com/in/jordanmaxjs)  
