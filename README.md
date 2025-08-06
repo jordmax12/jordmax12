@@ -32,9 +32,9 @@ When I'm not churning code, I'm exploring new tech stacks (currently diving into
 
 ## 📊 My GitHub Stats
 
-![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordmax12&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jordmax12&layout=compact&theme=radical)
 
 ---
 
