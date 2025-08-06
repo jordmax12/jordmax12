@@ -23,7 +23,7 @@ When I'm not churning code, I'm exploring new tech stacks (currently diving into
 ## 🌟 What I'm Up To
 
 - 🏗️ **Building** scalable, serverless systems at Feastables to power delightful user experiences.  
-- 🔍 **Learning** Golang to tackle performance-critical side projects.  
+- 🔍 **Learning** Golang to tackle side projects.  
 - 🤝 **Mentoring** developers to level up their skills in cloud and microservices.  
 - 🎨 **Experimenting** with Python for specialized microservices when the use case demands it.  
 
