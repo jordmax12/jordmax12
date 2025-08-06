@@ -30,14 +30,6 @@ When I'm not churning code, I'm exploring new tech stacks (currently diving into
 
 ---
 
-## 📊 My GitHub Stats
-
-![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordmax12&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jordmax12&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect!
 
 - 🌐 [Portfolio](https://jordanmax.io)  
