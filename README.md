@@ -15,7 +15,7 @@ When I'm not churning code, I'm exploring new tech stacks (currently diving into
 ![Event-Driven](https://img.shields.io/badge/Architecture-Event--Driven-6B7280?style=for-the-badge)
 ![Functional](https://img.shields.io/badge/Programming-Functional-7C3AED?style=for-the-badge)
 
-**Core Technologies**: Node.js, AWS (Lambda, DynamoDB, S3, SQS/SNS, Kinesis, AppSync, CloudFormation, CloudFront), Serverless Framework, CICD
+**Core Technologies**: Node.js, AWS (Lambda, DynamoDB, S3, SQS/SNS, Kinesis, AppSync, CloudFormation, CloudFront), Serverless Framework, CICD  
 **Exploring**: Golang, Python  
 
 ---
