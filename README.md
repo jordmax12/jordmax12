@@ -1,4 +1,4 @@
-# Hey, I'm Jordan Max! 👨‍💻
+# Hey there! 👨‍💻
 
 Welcome to my GitHub! I'm a **Lead Software Engineer** at [Feastables](https://feastables.com), where I craft high-performance, scalable software using **AWS serverless technologies**. I’m passionate about building robust systems from the ground up, designing **microservices**, **event-driven architectures**, and **APIs** that solve real-world problems. With a knack for mentoring teams and driving projects from 0 to 1, I thrive on creating sustainable, cutting-edge solutions.
 
