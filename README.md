@@ -32,4 +32,5 @@ When I'm not building products, I'm exploring new tech stacks (currently diving 
 ## 📫 Let's Connect!
 
 - 🌐 [Portfolio](https://jordanmax.io)  
-- 💼 [LinkedIn](https://linkedin.com/in/jordanmaxjs)  
+- 💼 [LinkedIn](https://linkedin.com/in/jordanmaxjs)
+- 🤓 [github.io](https://jordmax12.github.io/)
