@@ -1,6 +1,6 @@
 # Hey there! 👨‍💻
 
-Welcome to my GitHub! I'm a **Senior Software Engineer** at [Chariot Claims]([https://feastables.com](https://www.chariotclaims.com/)), where I craft high-performance, scalable software using **AWS serverless technologies**. I’m passionate about building robust systems from the ground up, designing **microservices**, **event-driven architectures**, and **APIs** that solve real-world problems. With a knack for mentoring teams and driving projects from 0 to 1, I thrive on creating sustainable, cutting-edge solutions.
+Welcome to my GitHub! I'm a **Senior Software Engineer** at [Chariot Claims](https://www.chariotclaims.com/), where I craft high-performance, scalable software using **AWS serverless technologies**. I’m passionate about building robust systems from the ground up, designing **microservices**, **event-driven architectures**, and **APIs** that solve real-world problems. With a knack for mentoring teams and driving projects from 0 to 1, I thrive on creating sustainable, cutting-edge solutions.
 
 When I'm not building products, I'm exploring new tech stacks (currently diving into **Golang** for side projects) or experimenting with **Python** for microservices when it’s the right tool for the job. The beauty of microservices? Pick the best tech for each problem and make it all play nice together! 🚀
 
