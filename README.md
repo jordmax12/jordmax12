@@ -31,6 +31,5 @@ Welcome to my GitHub! I'm a **Senior Software Engineer** at [Chariot Claims](htt
 
 ## 📫 Let's Connect!
 
-- 🌐 [Portfolio](https://jordanmax.io)  
 - 💼 [LinkedIn](https://linkedin.com/in/jordanmaxjs)
 - 🤓 [github.io](https://jordmax12.github.io/)
